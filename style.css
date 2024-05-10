@@ -7,6 +7,10 @@ html {
   text-align: center;
   padding: 30px; 
 }
+.test {
+  color: #54F8F8;
+  text-align: center;
+}
 
 #navBar{
   background-image: linear-gradient(160deg,#54F8F8, #FF4dff);
